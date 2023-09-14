@@ -412,6 +412,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panelRectTransform: {fileID: 5417086215933121710}
+  titleRectTransform: {fileID: 0}
+  title: {fileID: 0}
   text: {fileID: 5417086215286462786}
   textMessage: {fileID: 11400000, guid: 59b2e9284c49e374591defe6b8976ee2, type: 2}
   textNumber: 2

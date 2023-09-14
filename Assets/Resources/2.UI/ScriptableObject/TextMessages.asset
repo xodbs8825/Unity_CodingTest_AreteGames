@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78562f355782534489626984b4c4fd4c, type: 3}
   m_Name: TextMessages
   m_EditorClassIdentifier: 
+  title:
+  - "\uC2DC\uBBAC\uB808\uC774\uC158 \uC6B0\uC8FC"
   text:
   - "\uC2A4\uD0C0\uD53C\uC2A4 \uCEF4\uD37C\uB2C8 \u300C\uC2E0\uC559\uC5F4\uC815\uBD80\u300D\uC758
     \uB85C\uB610 \uBC1C\uD589\uC778\uC774 \uB098\uD0C0\uB0AC\uB2E4"

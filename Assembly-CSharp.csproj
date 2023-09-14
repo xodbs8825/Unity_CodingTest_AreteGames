@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2602657E-31BE-5AAD-C3E8-EEA286DE03B3}</ProjectGuid>
+    <ProjectGuid>{A48F6C79-3287-628C-5755-4D8F0DEC9704}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,14 +56,17 @@
     <Analyzer Include="D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\2.UI\TextPanel\TextScriptableObject.cs" />
+    <Compile Include="Assets\Scripts\2.UI\TextScriptableObject.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\Misc\Utilities.cs" />
-    <Compile Include="Assets\Scripts\2.UI\SystemManager.cs" />
+    <Compile Include="Assets\Scripts\2.UI\PlayerInfo.cs" />
+    <Compile Include="Assets\Scripts\2.UI\TextButtonManager.cs" />
+    <Compile Include="Assets\Scripts\2.UI\GameManager.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\Misc\CameraManager.cs" />
+    <Compile Include="Assets\Scripts\2.UI\TextManager.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\HexGrid\HexTile.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\Misc\Player.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\AStar\PathFinding.cs" />
-    <Compile Include="Assets\Scripts\2.UI\TextPanel\TextPanelManager.cs" />
+    <Compile Include="Assets\Scripts\2.UI\TextPanelManager.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\AStar\PathNode.cs" />
     <Compile Include="Assets\Scripts\1.HexGrid_AStar\HexGrid\GridManager.cs" />
   </ItemGroup>
